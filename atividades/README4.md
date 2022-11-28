@@ -12,3 +12,7 @@
 # 7
 <br/>
 <img src="../img/img5.png"/>
+
+# 8
+<br/>
+<img src="../img/img6.png"/>
